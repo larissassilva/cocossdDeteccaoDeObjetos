@@ -4,7 +4,7 @@ objects = [];
 status = "";
 
 function preload(){
-  img = loadImage('animals.jpg');
+  img = loadImage('dog_cat.jpg');
 }
 
 
